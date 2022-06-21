@@ -1,4 +1,4 @@
 
 
 
-add_subdirectory(${platform_SOURCE_DIR}/Poco ${platform_BINARY_DIR})
+add_subdirectory(${platform_SOURCE_DIR}/src ${platform_BINARY_DIR}/build)
