@@ -6,4 +6,3 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 
 include_directories(${PROJECT_SOURCE_DIR}/Poco)
 
-add_executable( Can_main.cpp)
