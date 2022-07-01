@@ -20,7 +20,7 @@
 
 #include "IConnManagerServiceTypes.h"
 #include "/root/.jenkins/workspace/cmake6/poco/Poco/BasicEvent.h"
-#include "Poco/OSP/Service.h"
+#include "/root/.jenkins/workspace/cmake6/poco/Poco/OSP/Service.h"
 
 namespace Stla {
 namespace Connectivity {
