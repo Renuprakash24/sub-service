@@ -9,7 +9,7 @@ project(hello)
 
 add_executable(app /root/.jenkins/workspace/cmake6/include/main.cpp)
 
-target_include_directories(app PUBLIC sub-service/Poco)
+target_include_directories(app PUBLIC s/root/.jenkins/workspace/cmake6/poco/Poco)
 
 
 
