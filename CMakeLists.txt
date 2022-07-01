@@ -5,4 +5,4 @@ project(hello)
 
 include_directories(${poco-sub/Poco/Poco})
 
-add_executable(app main.cpp/include)
+add_executable(app main.cpp)
