@@ -4,4 +4,4 @@ project(hello)
 
 include_directories(${poco-sub/Poco/Poco})
 
-add_executable(app main.cpp)
+add_executable(app /root/.jenkins/workspace/cmake6/include/main.cpp)
