@@ -19,7 +19,7 @@
 #define ICONNMANAGERSERVICE_H
 
 #include "IConnManagerServiceTypes.h"
-#include "Poco/BasicEvent.h"
+#include "/root/.jenkins/workspace/cmake6/poco/Poco/BasicEvent.h"
 #include "Poco/OSP/Service.h"
 
 namespace Stla {
