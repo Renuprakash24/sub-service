@@ -7,6 +7,6 @@ project(hello)
 
 add_executable(app /root/.jenkins/workspace/cmake6/include/main.cpp)
 
-target_include_library(/root/.jenkins/workspace/cmake6/poco/Poco)
+include_library(/root/.jenkins/workspace/cmake6/poco/Poco)
 
 
